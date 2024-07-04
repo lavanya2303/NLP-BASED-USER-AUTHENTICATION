@@ -8,11 +8,11 @@ The Dataset used for the project is the Balbit mouse dynamics challenge. The col
 
 The data consists of a collection of csv files, each file representing session data for a particular user. The columns in the file are as follows -
 
-● record timestamp - The unix timestamp of the mouse event ● client timestamp - The client side timestamp of the recorded mouse event. ● button - The status of the mouse during the event, it takes values like NoButton, Scroll, Left, Right ● state - state of the mouse, has values like Move, Up, Down, Pressed, Released ● x - The x-coordinate of the mouse on the screen ● y - The y-coordinate of the mouse on the screen
+● record timestamp - The unix timestamp of the mouse event ● client timestamp - The client side timestamp of the recorded mouse event. 
+● button - The status of the mouse during the event, it takes values like NoButton, Scroll, Left, Right ● state - state of the mouse, has values like Move, Up, Down, Pressed, Released ● x - The x-coordinate of the mouse on the screen ● y - The y-coordinate of the mouse on the screen
 
 This project proposes a novel framework integrating sophisticated techniques such as embeddings extraction using Transformer models with cutting-edge machine learning algorithms such as Recurrent Neural Networks (RNN).
 
 Layout of Experiments
-
 ![image](https://github.com/lavanya2303/NLP-BASED-USER-AUTHENTICATION/assets/124161690/dd4fd702-b771-4b58-b6b3-17764c0ceb60)
 
