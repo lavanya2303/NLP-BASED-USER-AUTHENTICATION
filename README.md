@@ -13,6 +13,5 @@ The data consists of a collection of csv files, each file representing session d
 
 This project proposes a novel framework integrating sophisticated techniques such as embeddings extraction using Transformer models with cutting-edge machine learning algorithms such as Recurrent Neural Networks (RNN).
 
-Layout of Experiments
 ![image](https://github.com/lavanya2303/NLP-BASED-USER-AUTHENTICATION/assets/124161690/dd4fd702-b771-4b58-b6b3-17764c0ceb60)
 
