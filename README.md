@@ -14,4 +14,5 @@ This project proposes a novel framework integrating sophisticated techniques suc
 
 Layout of Experiments
 
-image
+![image](https://github.com/lavanya2303/NLP-BASED-USER-AUTHENTICATION/assets/124161690/dd4fd702-b771-4b58-b6b3-17764c0ceb60)
+
